@@ -17,6 +17,7 @@ This analysis will largely benefit real estate companies interested in Ames to m
 * What locations should prospective home-owners avoid if they are on a tight budget?
 * What features should home-owners exclude to reduce cost?
 
+
 ## Data dictionary
 |#|Feature|Type|Description|Legend|
 |:---|:---|:---|:---|:---|
